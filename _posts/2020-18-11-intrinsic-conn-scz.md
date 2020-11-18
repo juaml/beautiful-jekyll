@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: 
+title: Intrinsic connecitivity in schizophrenia
+subtitle: Meta-analytic networks and molecular architecture
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
