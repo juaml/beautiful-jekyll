@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Human striatum parcellation
+title: Striatum parcellation
 subtitle: Multimodal parcellation of the human striatum
 cover-img: /assets/img/Striatum.png
 thumbnail-img: /assets/img/Striatum.png
