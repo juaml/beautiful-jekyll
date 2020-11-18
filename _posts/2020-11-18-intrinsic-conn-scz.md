@@ -2,9 +2,9 @@
 layout: post
 title: Intrinsic connecitivity in schizophrenia
 subtitle: Meta-analytic networks and molecular architecture
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Bryan_Charnley_Self_Portrait_13
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Bryan_Charnley_Self_Portrait_13
 tags: [paper]
 ---
 
