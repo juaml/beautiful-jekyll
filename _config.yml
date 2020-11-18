@@ -16,9 +16,9 @@ author: juaml
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - FZJ: "https://www.fzj.de"
+    - Our repos: "https://github.com/juaml"
+  Author's home: "https://www.fzj.de/inm/inm-7/EN/Forschung/Applied%20Machine%20Learning/_node.html"
 
 # --- Logo --- #
 
