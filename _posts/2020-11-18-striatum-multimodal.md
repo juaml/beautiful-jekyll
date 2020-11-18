@@ -10,11 +10,11 @@ comments: false
 
 We developed a new multimodal method and applied to to create convergent parcels of the human striatum.
 
-The paper is published in *Neuroscience Bulletin* and can be [found here](https://pubmed.ncbi.nlm.nih.gov/32700142/).
+The paper is published in [*Neuroscience Bulletin*](https://pubmed.ncbi.nlm.nih.gov/32700142/).
 
-The parcellation itself can be [downloaded from ANIMA](https://anima.inm7.de/studies/Liu_striatum_2020).
+The parcellation itself can be [downloaded from ANIMA](https://anima.inm7.de/studies/Liu_striatum_2020)
 
-**Joint Multi-modal Parcellation of the Human Striatum: Functions and Clinical Relevance **
+**Joint Multi-modal Parcellation of the Human Striatum: Functions and Clinical Relevance**
 
 **Abstract**
 
