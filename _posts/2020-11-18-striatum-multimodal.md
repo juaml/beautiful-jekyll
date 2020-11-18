@@ -6,7 +6,6 @@ cover-img: /assets/img/Striatum.png
 thumbnail-img: /assets/img/Striatum.png
 share-img: /assets/img/Striatum.png
 tags: [paper]
-comments: false
 ---
 
 We developed a new multimodal method and applied to to create convergent parcels of the human striatum.
