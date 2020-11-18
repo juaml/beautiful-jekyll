@@ -2,8 +2,9 @@
 layout: post
 title: Human striatum parcellation
 subtitle: Multimodal parcellation of the human striatum
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+cover-img: /assets/img/Striatum.png
+thumbnail-img: /assets/img/Striatum.png
+share-img: /assets/img/Striatum.png
 tags: [paper]
 comments: false
 ---
