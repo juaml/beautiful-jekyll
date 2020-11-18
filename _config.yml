@@ -16,10 +16,11 @@ author: juaml
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - INM-7: "https://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html"
     - FZJ: "https://www.fzj.de"
     - Our repos: "https://github.com/juaml"
   Author's home: "https://www.fzj.de/inm/inm-7/EN/Forschung/Applied%20Machine%20Learning/_node.html"
-
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
