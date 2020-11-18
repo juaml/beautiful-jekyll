@@ -12,6 +12,8 @@ tags: [paper]
 
 Our paper was recently published in *Biological Psychiatry* Published:October 03, 2020. 
 
+You can find the [full paper here](https://doi.org/10.1016/j.biopsych.2020.09.024).
+
 **Background** 
 Despite the marked inter-individual variability in the clinical presentation of schizophrenia, it remains unclear the extent to which individual dimensions of psychopathology relate to the functional variability in brain networks among patients. Here, we address this question using network-based predictive modeling of individual psychopathology along four data-driven symptom dimensions. Follow-up analyses assess the molecular underpinnings of predictive networks by relating them to neurotransmitter-receptor distribution patterns.
 
@@ -23,5 +25,3 @@ Ten-fold and leave-one-site-out analyses revealed five predictive network-sympto
 
 **Conclusions** 
 We revealed a robust association between intrinsic functional connectivity within networks for socio-affective processes and the cognitive dimension of psychopathology. By investigating the molecular architecture, this work links dopaminergic and serotonergic systems with the functional topography of brain networks underlying cognitive symptoms in schizophrenia.
-
-You can find the [full paper here](https://doi.org/10.1016/j.biopsych.2020.09.024).
