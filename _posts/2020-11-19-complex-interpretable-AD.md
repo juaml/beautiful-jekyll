@@ -5,7 +5,7 @@ subtitle: Alzheimer’s disease diagnosis and prognosis
 cover-img: /assets/img/brain-2789677_1280.png
 thumbnail-img: /assets/img/brain-2789677_1280.png
 share-img: /assets/img/brain-2789677_1280.png
-tags: [paper, supervised ml, interpretability, mental health]
+tags: [paper, supervised ml, interpretable ml, mental health]
 ---
 
 Interpretability is an important consideration for machine learning systems, especially in the clinical domain. We took first steps to develop a methods that creates complex representations of base features while still keeping them interpretable.
