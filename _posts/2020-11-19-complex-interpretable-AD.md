@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evolving complex yet interpretable representations
+title: Evolving complex yet interpretable representations for ML
 subtitle: Alzheimer’s disease diagnosis and prognosis
 tags: [paper, interpretability]
 ---
