@@ -8,9 +8,9 @@ share-img: /assets/img/Striatum.png
 tags: [paper, unsupervised ml]
 ---
 
-We developed a new multimodal method and applied to to create convergent parcels of the human striatum.
+We developed a new method and applied to to create multimodal convergent parcels of the human striatum.
 
-The paper is published in [*Neuroscience Bulletin*](https://pubmed.ncbi.nlm.nih.gov/32700142/).
+The paper is published in [*Neuroscience Bulletin*](https://pubmed.ncbi.nlm.nih.gov/32700142/) 2020.
 
 The parcellation itself can be [downloaded from ANIMA](https://anima.inm7.de/studies/Liu_striatum_2020)
 
