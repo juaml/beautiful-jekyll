@@ -10,7 +10,7 @@ tags: [paper, ml, interpretability]
 
 Interpretability is an important consideration for machine learning systems, especially in the clinical domain. We took first steps to develop a methods that creates complex representations of base features while still keeping them interpretable.
 
-The paper is published in [*IEE CEC 2020*](https://doi.org/10.1109/CEC48606.2020.9185843
+The paper is published in [*IEE CEC 2020*](https://doi.org/10.1109/CEC48606.2020.9185843).
 
 **Evolving complex yet interpretable representations: application to Alzheimer’s diagnosis and prognosis**
 
