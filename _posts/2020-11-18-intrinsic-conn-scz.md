@@ -5,7 +5,7 @@ subtitle: Meta-analytic networks and molecular architecture
 cover-img: /assets/img/Bryan_Charnley_Self_Portrait_13.jpg
 thumbnail-img: /assets/img/Bryan_Charnley_Self_Portrait_13.jpg
 share-img: /assets/img/Bryan_Charnley_Self_Portrait_13.jpg
-tags: [paper, ml, mental health]
+tags: [paper, supervised ml, mental health]
 ---
 
 **Intrinsic connectivity patterns of task-defined brain networks allow individual prediction of cognitive symptom dimension of schizophrenia and are linked to molecular architecture**
