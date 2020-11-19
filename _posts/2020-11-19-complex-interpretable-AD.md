@@ -2,7 +2,10 @@
 layout: post
 title: Evolving complex yet interpretable representations for ML
 subtitle: Alzheimer’s disease diagnosis and prognosis
-tags: [paper, interpretability]
+cover-img: /assets/img/brain-2789677_1280.png
+thumbnail-img: /assets/img/brain-2789677_1280.png
+share-img: /assets/img/brain-2789677_1280.png
+tags: [paper, ml, interpretability]
 ---
 
 Interpretability is an important consideration for machine learning systems, especially in the clinical domain. We took first steps to develop a methods that creates complex representations of base features while still keeping them interpretable.
