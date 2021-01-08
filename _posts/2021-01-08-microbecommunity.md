@@ -8,7 +8,7 @@ share-img: /assets/img/microbe-3387612_640.png
 tags: [paper, optimality]
 ---
 
-We contributed to an exciting project to uncover how microbes interact with each other. 
+We contributed to an exciting project to uncover how microbes interact with each other. In the long term I think we can find similar prcinciples for many different biological systems and the methods and tools developed here will be useful for that.
 
 The paper is published in [*Nature Ecology and Evolution*](https://www.nature.com/articles/s41559-020-01353-4)
 
