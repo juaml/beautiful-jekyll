@@ -5,7 +5,7 @@ subtitle: which brain networks might be involved
 cover-img: /assets/img/mental-health-3337026_1280.jpg
 thumbnail-img: /assets/img/mental-health-3337026_1280.jpg
 share-img: /assets/img/mental-health-3337026_1280.jpg
-tags: [paper, mental health]
+tags: [paper, mental health, supervised ml]
 ---
 
 We contributed to a project investigating how working memory is affected by age and which brain networks might be involved.
