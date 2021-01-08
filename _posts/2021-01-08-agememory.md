@@ -1,6 +1,6 @@
 ---
 layout: post
-title: age difference in working memory
+title: age & working memory
 subtitle: which brain networks might be involved
 cover-img: /assets/img/mental-health-3337026_1280.jpg
 thumbnail-img: /assets/img/mental-health-3337026_1280.jpg
