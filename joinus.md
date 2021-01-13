@@ -8,7 +8,7 @@ We are always looking for skilled and motivated candidates to join us as from in
 If there are no current job openings as listed below then feel free to send an application (minimum CV and cover letter) to [Kaustubh Patil](mailto:k.patil@fz-juelich.de).
 
 
-**Research Software Developer/Scientist**
+**Research Software Developer/Scientist (currently open)**
 
 ☞ Are you a programmer interested in research and passionate about open-source?
 
