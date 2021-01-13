@@ -5,7 +5,7 @@ subtitle: jobs as JuAML
 ---
 
 We are always looking for skilled and motivated candidates to join us as from intenships to all academic levels (master's, phd and postdoc) (depoending upon availability of funds).
-If there are no current job openings as listed below then feel free to send an application (minimum CV and cover letter) to k.patil@fz-juelich.de.
+If there are no current job openings as listed below then feel free to send an application (minimum CV and cover letter) to [Kaustubh Patil](mailto:k.patil@fz-juelich.de).
 
 
 **Research Software Developer/Scientist**
@@ -63,7 +63,7 @@ The Institute of Neuroscience and Medicine, Brain and Behaviour (INM-7) is part 
 
 *Interested?*
 
-We are looking forward to receiving your comprehensive application (cover letter, CV, github profile, transcripts, certificates etc.) sent directly to Kaustubh Patil (k.patil@fz-juelich.de).
+We are looking forward to receiving your comprehensive application (cover letter, CV, github profile, transcripts, certificates etc.) sent directly to [Kaustubh Patil] (mailto:k.patil@fz-juelich.de?subject=[Application]%20research%20software%20developer).
 Forschungszentrum Jülich is an equal opportunities employer. Severely disabled persons and those equaling severely disabled persons who are equally suitable for the position will be considered preferentially within the framework of legal requirements. The position will remain open until filled.
 
 
