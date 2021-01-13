@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join JuAML
+title: Join us
 subtitle: jobs as JuAML
 ---
 
