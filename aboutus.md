@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JuAML
+title: About us
 subtitle: Juelich Applied Machine Learning group
 ---
 
