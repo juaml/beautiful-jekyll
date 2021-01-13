@@ -14,9 +14,9 @@ If there are no current job openings as listed below then feel free to send an a
 
 *We are looking for a Research Software Developer/Scientist (m/f/d)*
 
--	Role: design, develop and deploy high quality cross-cutting research software ecosystem with a particular focus on data handling and machine learning
--	Starting: February 2021 (negotiable)
--	Place: Forschungszentrum Jülich (FZJ) with offices available in Jülich and Düsseldorf
+-	*Role*: design, develop and deploy high quality cross-cutting research software ecosystem with a particular focus on data handling and machine learning
+-	*Starting*: February 2021 (negotiable)
+-	*Place*: Forschungszentrum Jülich (FZJ) with offices available in Jülich and Düsseldorf
 
 *Your responsibilities*
 -	design, develop and deploy data management, analysis and machine learning tools as a software ecosystem in collaboration with experts
@@ -49,7 +49,7 @@ If there are no current job openings as listed below then feel free to send an a
 
 *We offer*
 -	long-term career prospects in research working on exciting projects outside the standard publication-oriented channels
--	excellent computing infrastructure with a dedicated cluster (https://docs.inm7.de/cluster/) as well as the Jülich Supercomputing Center (https://www.fz-juelich.de/ias/jsc/EN)
+-	excellent computing infrastructure with a [dedicated cluster](https://docs.inm7.de/cluster/) as well as the [Jülich Supercomputing Center](https://www.fz-juelich.de/ias/jsc/EN)
 -	salary according to the German public tariff (TVöD) plus the usual social benefits for the public employment sector
 -	close collaboration with research, machine learning and programming experts
 -	flexibility to initiate and shape projects within the scope of our research
@@ -59,8 +59,9 @@ If there are no current job openings as listed below then feel free to send an a
 
 *Who we are*
 
-The Institute of Neuroscience and Medicine, Brain and Behaviour (INM-7) is part of the Forschungszentrum Jülich (FZJ) in Jülich, Germany, which is one of the 19 national institutions of the Hermann von Helmholtz Association of German Research Centres e.V. (HGF). Around 5000 FZJ employees carry out basic and applied research. At the INM-7 some 100 scientists conduct research in brain organization and brain-behavior relationships using large datasets and machine learning tools in close cooperation with national and international research institutions, research-oriented clinics and public institutions. INM-7 is committed to open-source software development to improve scientific processes, replicability and reusability (see; julearn https://juaml.github.io/julearn and DataLad https://www.datalad.org/). To extend our efforts in this direction, we are looking for a colleague to join us as a research software developer.
-Interested?
+The Institute of Neuroscience and Medicine, Brain and Behaviour (INM-7) is part of the Forschungszentrum Jülich (FZJ) in Jülich, Germany, which is one of the 19 national institutions of the Hermann von Helmholtz Association of German Research Centres e.V. (HGF). Around 5000 FZJ employees carry out basic and applied research. At the INM-7 some 100 scientists conduct research in brain organization and brain-behavior relationships using large datasets and machine learning tools in close cooperation with national and international research institutions, research-oriented clinics and public institutions. INM-7 is committed to open-source software development to improve scientific processes, replicability and reusability (see; [julearn](https://juaml.github.io/julearn) and [DataLad](https://www.datalad.org/)). To extend our efforts in this direction, we are looking for a colleague to join us as a research software developer.
+
+*Interested?*
 
 We are looking forward to receiving your comprehensive application (cover letter, CV, github profile, transcripts, certificates etc.) sent directly to Kaustubh Patil (k.patil@fz-juelich.de).
 Forschungszentrum Jülich is an equal opportunities employer. Severely disabled persons and those equaling severely disabled persons who are equally suitable for the position will be considered preferentially within the framework of legal requirements. The position will remain open until filled.
