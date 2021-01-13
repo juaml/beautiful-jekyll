@@ -4,13 +4,12 @@ title: Join us
 subtitle: jobs as JuAML
 ---
 
-We are always looking for skilled and motivated candidates to join us as from intenships to all academic levels (master's, phd and postdoc) (depoending upon availability of funds).
-If there are no current job openings as listed below then feel free to send an application (minimum CV and cover letter) to [Kaustubh Patil](mailto:k.patil@fz-juelich.de).
+We are always looking for skilled and motivated candidates to join us as from intenships to all academic levels (master's, phd and postdoc) (depoending upon availability of funds). If you are interested in our work and there are no current job openings as listed below then feel free to send an application (minimum CV and cover letter) to [Kaustubh Patil](mailto:k.patil@fz-juelich.de).
 
 
 **Research Software Developer/Scientist (currently open)**
 
-☞ Are you a programmer interested in research and passionate about open-source?
+*☞ Are you a programmer interested in research and passionate about open-source?*
 
 *We are looking for a Research Software Developer/Scientist (m/f/d)*
 
