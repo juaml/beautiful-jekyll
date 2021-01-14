@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/AML_software_ecosystem.png
 share-img: /assets/img/AML_software_ecosystem.png
 ---
 
-**Research Software Developer/Scientist (currently open)**
+**Research Software Developer/Scientist (open)**
 
 *☞ Are you a programmer interested in research and passionate about open-source?*
 
@@ -65,4 +65,5 @@ We are looking forward to receiving your comprehensive application (cover letter
 
 Forschungszentrum Jülich is an equal opportunities employer. Severely disabled persons and those equaling severely disabled persons who are equally suitable for the position will be considered preferentially within the framework of legal requirements. The position will remain open until filled.
 
+...
 
