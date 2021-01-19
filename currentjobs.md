@@ -16,6 +16,7 @@ css: /assets/css/currentjobs.css
 -	*Role*: design, develop and deploy high quality cross-cutting research software ecosystem with a particular focus on data handling and machine learning
 -	*Starting*: February 2021 (negotiable)
 -	*Place*: Forschungszentrum Jülich (FZJ) with offices available in Jülich and Düsseldorf
+- *Salary*: According to the German public tariff (TVöD), E13 (master's/PhD) with step as per experience
 
 *Your responsibilities*
 -	design, develop and deploy data management, analysis and machine learning tools as a software ecosystem in collaboration with experts
@@ -62,7 +63,7 @@ The Institute of Neuroscience and Medicine, Brain and Behaviour (INM-7) is part 
 
 *Interested?*
 
-We are looking forward to receiving your comprehensive application (cover letter, CV, github profile, transcripts, certificates etc.) sent directly to [Kaustubh Patil](mailto:k.patil@fz-juelich.de) with subject *"[application] research software developer"*.
+We are looking forward to receiving your comprehensive application with names of two referees (cover letter, CV, github profile, transcripts, certificates etc.) sent directly to [Kaustubh Patil](mailto:k.patil@fz-juelich.de) with subject *"[application] research software developer"*.
 
 Forschungszentrum Jülich is an equal opportunities employer. Severely disabled persons and those equaling severely disabled persons who are equally suitable for the position will be considered preferentially within the framework of legal requirements. The position will remain open until filled.
 
