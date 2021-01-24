@@ -10,7 +10,7 @@ css: /assets/css/currentjobs.css
 
 **Research Software Developer/Scientist (open)**
 
-*☞ Are you a programmer interested in research and passionate about open-source?*
+*☞ Do you like building software, research and passionate about open-source?*
 
 *We are looking for a Research Software Developer/Scientist (m/f/d)*
 -	*Role*: design, develop and deploy high quality cross-cutting research software ecosystem with a particular focus on data handling and machine learning
