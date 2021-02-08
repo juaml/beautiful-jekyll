@@ -63,7 +63,7 @@ The Institute of Neuroscience and Medicine, Brain and Behaviour (INM-7) is part 
 
 *Interested?*
 
-We are looking forward to receiving your comprehensive application with names of two referees (cover letter, CV, github profile, transcripts, certificates etc.) sent directly to [Kaustubh Patil](mailto:k.patil@fz-juelich.de) with subject *"[application] research software developer"*.
+Please [apply here](https://www.fz-juelich.de/SharedDocs/Stellenangebote/_common/dna/2021-034-EN-INM-7.html?nn=722362).
 
 Forschungszentrum Jülich is an equal opportunities employer. Severely disabled persons and those equaling severely disabled persons who are equally suitable for the position will be considered preferentially within the framework of legal requirements. The position will remain open until filled.
 
