@@ -8,7 +8,7 @@ share-img: /assets/img/AML_software_ecosystem.png
 css: /assets/css/currentjobs.css
 ---
 
-**Postdoctoral position (open)**
+**Postdoctoral position SPP2041 (open)**
 
 Postdoc position in machine learning for brain connectomics at the Institute of Neuroscience and Medicine, Research Center Jülich, Germany!
 A postdoctoral position in machine learning for brain connectomics is available at the Institute of Neuroscience and Medicine, Brain and Behaviour (INM-7) with Prof. Dr. Simon Eickhoff and Dr. Kaustubh Patil within a project under the DFG-funded priority program *SPP-2041 "Computational Connectomics"*. The position will be for 2 years with a potential for extension.
@@ -17,7 +17,7 @@ The primary duties of the postdoctoral researcher will be to build predictive mo
 
 You should have a PhD in one of the related fields. Applications from any related area (computer science, neuroscience, physics, bio-medical engineering) are encouraged, especially from individuals who have an interest in predictive modelling using neuroimaging data. The ideal candidate will have demonstrable expertise in machine learning/artificial intelligence and/or optimization methods as well as programming (especially Python, R and Matlab). A background in neuroscience and/or neuroimaging analysis is a plus. Good English communication and writing skills and a good team spirit are a must.
 
-The position is available immediately and search will continue until a candidate has been selected. To apply, please send your CV (including a list of publications), a letter of motivation, and names of at-least two referees with the subject line “[postdoc application] SPP2021” to: [k.patil@fz-juelich.de](mailto:k.patil@fz-juelich.de?subject=[postdoc application]%20SPP2021).
+The position is available immediately and search will continue until a candidate has been selected. To apply, please send your CV (including a list of publications), a letter of motivation, and names of at-least two referees with the subject line “[postdoc application] SPP2041” to: [k.patil@fz-juelich.de](mailto:k.patil@fz-juelich.de?subject=[postdoc application]%20SPP2041).
 
 The Forschungszentrum Jülich aims to employ more women in this area and therefore particularly welcomes applications from women. We also welcome applications from disabled persons.
 
