@@ -10,6 +10,9 @@ css: /assets/css/currentjobs.css
 
 **Postdoctoral position SPP2041 (open)**
 
+![image](assets/img/FZJ_logo.png)
+![image](assets/img/SPP2041_logo.png)
+
 Postdoc position in machine learning for brain connectomics at the Institute of Neuroscience and Medicine, Research Center Jülich, Germany!
 A postdoctoral position in machine learning for brain connectomics is available at the Institute of Neuroscience and Medicine, Brain and Behaviour (INM-7) with Prof. Dr. Simon Eickhoff and Dr. Kaustubh Patil within a project under the DFG-funded priority program [*SPP2041 "Computational Connectomics"*](https://spp2041.de/). The position will be for 2 years with a potential for extension.
 
