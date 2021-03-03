@@ -8,7 +8,7 @@ share-img: /assets/img/AML_software_ecosystem.png
 css: /assets/css/currentjobs.css
 ---
 
-**Postdoctoral position**
+**Postdoctoral position (open)**
 
 Postdoc position in machine learning for brain connectomics at the Institute of Neuroscience and Medicine, Research Center Jülich, Germany!
 A postdoctoral position in machine learning for brain connectomics is available at the Institute of Neuroscience and Medicine, Brain and Behaviour (INM-7) with Prof. Dr. Simon Eickhoff and Dr. Kaustubh Patil within a project under the DFG-funded priority program *SPP-2041 "Computational Connectomics"*. The position will be for 2 years with a potential for extension.
@@ -19,4 +19,4 @@ The position is available immediately and search will continue until a candidate
 The Forschungszentrum Jülich aims to employ more women in this area and therefore particularly welcomes applications from women. We also welcome applications from disabled persons.
 
 
-**Research Software Developer/Scientist (open)** (application window closed)
+**Research Software Developer/Scientist (closed)** (application window closed)
