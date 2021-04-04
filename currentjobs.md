@@ -8,7 +8,7 @@ share-img: /assets/img/AML_software_ecosystem.png
 css: /assets/css/currentjobs.css
 ---
 
-**Postdoctoral position SPP2041 (open)**
+**Postdoctoral position SPP2041 (application closed)**
 
 ![image](assets/img/FZJ_logo.png)
 ![image](assets/img/SPP2041_logo.png)
