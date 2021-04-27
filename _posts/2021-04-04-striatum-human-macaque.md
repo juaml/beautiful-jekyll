@@ -2,9 +2,9 @@
 layout: post
 title: striatum organization
 subtitle: comparing humans and macaques
-cover-img: /assets/img/Striatum.png
-thumbnail-img: /assets/img/Striatum.png
-share-img: /assets/img/Striatum.png
+cover-img: /assets/img/evolution-4107273_1280.jpg
+thumbnail-img: /assets/img/evolution-4107273_1280.jpg
+share-img: /assets/img/evolution-4107273_1280.jpg
 tags: [paper, unsupervised ml]
 ---
 
