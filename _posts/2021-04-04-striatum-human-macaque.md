@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Striatum parcellation
+title: striatum organization
 subtitle: comparing humans and macaques
 cover-img: /assets/img/Striatum.png
 thumbnail-img: /assets/img/Striatum.png
