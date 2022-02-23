@@ -10,6 +10,9 @@ css: /assets/css/currentjobs.css
 
 **Postdoctoral position in machine learning at University Hospital Düsseldorf and the Institute of Neuroscience and Medicine, Research Center Jülich, Germany!**
 
+![image](assets/img/FZJ_logo.png)
+![image](assets/img/UKD_logo.jpg)
+
 A postdoctoral position in machine learning for risk stratification and outcome prediction in cardiovascular diseases and critical care medicine is available with Prof. Dr. Simon Eickhoff and Prof. Dr. Dr. Christian Jung. The position will be initially for 2 years with a potential for extension up to 4 years.
 
 The primary duties of the postdoctoral researcher will be to build models using large datasets of clinical data and biomarkers including blood-derived as well as imaging data together with continuous monitoring of vitals (ECG, blood-pressure) to understand and predict relationships between them and patient prognosis. This project provides a unique opportunity for health-related data science, machine learning, and advanced modeling applied to real-world data.
