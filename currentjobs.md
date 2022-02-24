@@ -10,16 +10,17 @@ css: /assets/css/currentjobs.css
 
 We currently have two open positions.
 
-**Research Software Developer/Scientist (applications open till 23.03.2022)**
+**1. Research Software Developer/Scientist (applications open till 23.03.2022)**
 
 ![image](assets/img/FZJ_logo_h100px.jpg)
 
 Work with us to build reusable, replicable and scalable neuroimaging data science and machine learning software.
+The job is with the [Applied Machine Learning Group](https://www.fz-juelich.de/inm/inm-7/EN/Forschung/Applied%20Machine%20Learning/_node.html), INM-7, Institute of Neuroscience and Medicine, Research Center Jülich, Germany.
 
-Details and application here: https://www.fz-juelich.de/SharedDocs/Stellenangebote/_common/dna/2022-080-EN-INM-7.html
+[Details and application here] (https://www.fz-juelich.de/SharedDocs/Stellenangebote/_common/dna/2022-080-EN-INM-7.html)
 
 
-**Postdoctoral position in machine learning at University Hospital Düsseldorf and the Institute of Neuroscience and Medicine, Research Center Jülich, Germany!**
+**2. Postdoctoral position in machine learning at University Hospital Düsseldorf and the Institute of Neuroscience and Medicine, Research Center Jülich, Germany!**
 
 ![image](assets/img/FZJ_logo_h100px.jpg)
 ![image](assets/img/UKD_logo_h100px.jpg)
