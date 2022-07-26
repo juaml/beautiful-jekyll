@@ -8,7 +8,7 @@ share-img: /assets/img/autumn-g9bfc6b9a8_640.jpg
 tags: [paper, supervised ml]
 ---
 
-Can we predict if naqtural compounds function as drugs?
+Can we predict if natural compounds can function as drugs?
 
 The paper is published in [*PLoS Computational Biology*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010029).
 
